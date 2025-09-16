@@ -7,7 +7,7 @@
     "start": "node app",
     "dev": "nodemon app"
   },
-  "author": "Tanishq Pathak",
+  "author": "Yashwant Singh",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
